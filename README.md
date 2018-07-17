@@ -1,2 +1,2 @@
 # hello-world
-initialiazing
+I'm a student.
